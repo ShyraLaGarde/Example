@@ -8,4 +8,12 @@ We use original images that are **High spatial resolution images** they have alo
 
 ## Image Sample
 
+- Tile shaping is splitting a large image into multiple tiles consequetially creating multiple images. 
+![Tiling provides a more correct prediction](https://user-images.githubusercontent.com/92336161/144960048-9f877b71-e16e-4ad4-804e-3e084c7d58ef.png)
+- When processing an image we dont train the whole image because we have limited data sources
+
+
+
+
+
 
